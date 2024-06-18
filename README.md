@@ -1,4 +1,4 @@
-<h1><img src="title.png"></h1>
+<img src="title.png">
 
 <h1>Authors</h1>
 Paula Martinez, Anish Pati, Richard Rian, Jeremiah Soliman, James Zabala
